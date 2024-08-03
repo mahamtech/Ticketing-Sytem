@@ -1,4 +1,4 @@
-# Ticketing-Sytem
+# Ticketing-System
 this is based on php,javascipt and also phpmailer to transmit and receive email from customer and also agent 
 
 ## Contact
